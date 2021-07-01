@@ -1,0 +1,2 @@
+"https://python-syllabus.herokuapp.com/beginners"
+"https://python-syllabus.herokuapp.com/intermediate"
